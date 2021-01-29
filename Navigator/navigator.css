@@ -1,0 +1,7 @@
+.active {
+  font-weight: bold;
+  color: red;
+}
+a + a {
+  margin-left: 0.5em;
+}
